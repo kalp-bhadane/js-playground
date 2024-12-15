@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Doe",
+    "age": 25,
+    "weight": 70,
+    "DOB": "1999-05-12",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "surname": "Smith",
+    "age": 30,
+    "weight": 55,
+    "DOB": "1994-08-20",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "surname": "Johnson",
+    "age": 40,
+    "weight": 85,
+    "DOB": "1984-03-15",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Emily",
+    "surname": "Davis",
+    "age": 35,
+    "weight": 60,
+    "DOB": "1989-07-10",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "name": "Robert",
+    "surname": "Brown",
+    "age": 28,
+    "weight": 75,
+    "DOB": "1996-02-25",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Sophia",
+    "surname": "Wilson",
+    "age": 22,
+    "weight": 50,
+    "DOB": "2002-11-05",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "name": "William",
+    "surname": "Martinez",
+    "age": 45,
+    "weight": 90,
+    "DOB": "1979-06-18",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Olivia",
+    "surname": "Anderson",
+    "age": 27,
+    "weight": 58,
+    "DOB": "1997-01-30",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "name": "James",
+    "surname": "Taylor",
+    "age": 33,
+    "weight": 80,
+    "DOB": "1991-09-14",
+    "gender": "Male"
+  },
+  {
+    "name": "Kalpesh",
+    "surname": "Bhadane",
+    "age": 30,
+    "weight": 71,
+    "DOB": "1994-05-29",
+    "gender": "Male",
+    "id": 10
+  }
+]
